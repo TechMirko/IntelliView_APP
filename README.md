@@ -1,4 +1,4 @@
-# My React Native App
+# IntelliView App
 
 Questa è una semplice app realizzata in React Native.
 
