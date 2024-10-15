@@ -7,7 +7,7 @@
 import React, {useState, useEffect} from "react"
 import ScattaGroup from "./ScattaGroup"
 import ConnettiGroup from "./ConnettiGroup"
-import Paho from 'pacd ho-mqtt'
+import Paho from 'paho-mqtt'
 import { Audio } from "expo-av"
 
 // Client MQTT
